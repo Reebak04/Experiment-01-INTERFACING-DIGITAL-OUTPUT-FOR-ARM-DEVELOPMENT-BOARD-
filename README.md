@@ -81,11 +81,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 ## Output  :
- ## i.) When the LED is in OFF State:
-
+## i.) When the LED is in OFF State:
 ![Untitled](https://github.com/Reebak04/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118364993/301065ff-8e70-46d2-b881-907dd9c17005)
-
- ## ii.) When the LED is in ON State:
+## ii.) When the LED is in ON State:
 ![image](https://github.com/Reebak04/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118364993/cb23f861-ab7c-4660-aed0-880441a10393)
 
 ## Result :

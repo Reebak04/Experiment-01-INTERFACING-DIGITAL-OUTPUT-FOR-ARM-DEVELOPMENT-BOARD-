@@ -82,10 +82,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output  :
  ## i.) When the LED is in OFF State:
-![Screenshot 2023-08-24 101555](https://github.com/Reebak04/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118364993/18efd556-7805-4aa7-8774-564d200f8513)
+![image](https://github.com/Reebak04/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118364993/3a4975b0-f170-4b52-8b55-cb259f3a208e)
 
  ## ii.) When the LED is in ON State:
-![Screenshot 2023-08-24 101656](https://github.com/Reebak04/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118364993/557bb42d-f0ac-4ff1-bdd4-f8958d017342)
+![image](https://github.com/Reebak04/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118364993/cb23f861-ab7c-4660-aed0-880441a10393)
+
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
 
